@@ -1,0 +1,20 @@
+/* Sets the default font for the entire body to 'Open Sans' and the base font size to 16px */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+/* Defines a minimum height for the swim lanes to ensure they are at least 60% of the viewport height */
+.swim-lanes {
+  min-height: 60vh;
+}
+
+/* Centers the task cards horizontally within their containers */
+.task-card {
+  margin: 0 auto;
+}
+
+/* Changes the cursor to a grab icon when hovering over a task card, indicating that it's draggable */
+.task-card:hover {
+  cursor: grab;
+}

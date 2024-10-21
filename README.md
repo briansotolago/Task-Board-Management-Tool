@@ -1,4 +1,3 @@
-# Challenge-5
 # Task Board - Management Tool
 
 ## Description

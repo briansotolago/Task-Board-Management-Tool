@@ -42,8 +42,8 @@ The app persists task data in **localStorage**, ensuring that tasks remain after
 
 **Repo:**
 
-[Github Repo](https://github.com/briansotolago/Challenge-5)
+[Github Repo](https://github.com/briansotolago/Task-Board-Management-Tool)
 
 **Link of the web Page:**
 
-[Github Page](https://briansotolago.github.io/Challenge-5/)
+[Github Page](https://briansotolago.github.io/Task-Board-Management-Tool/)
